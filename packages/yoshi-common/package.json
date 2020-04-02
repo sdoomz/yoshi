@@ -24,7 +24,7 @@
     "@types/sockjs": "0.3.31",
     "@types/terser-webpack-plugin": "^1.2.1",
     "@types/watchpack": "1.1.5",
-    "@types/webpack": "4.41.0",
+    "@types/webpack": "4.41.10",
     "@types/webpack-bundle-analyzer": "2.13.3",
     "@types/webpack-manifest-plugin": "2.1.0",
     "@types/webpack-node-externals": "1.7.1",

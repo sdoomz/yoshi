@@ -38,7 +38,7 @@
     "@types/react-dev-utils": "^9.0.1",
     "@types/resolve": "^1.14.0",
     "@types/url-join": "^4.0.0",
-    "@types/webpack": "4.41.0",
+    "@types/webpack": "4.41.10",
     "@types/webpack-node-externals": "^1.6.3",
     "@wix/wix-bootstrap-testkit": "^1.1.3955",
     "@wix/wix-config-emitter": "^1.0.1395",
