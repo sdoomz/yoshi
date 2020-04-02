@@ -116,7 +116,7 @@
     "@types/jest": "24.9.1",
     "@types/node": "8.10.59",
     "@types/puppeteer": "1.20.4",
-    "@types/react": "16.9.15",
+    "@types/react": "16.9.31",
     "@types/react-dom": "16.9.6",
     "@wix/wix-bootstrap-testkit": "^1.0.0",
     "@wix/wix-config-emitter": "^1.0.0",

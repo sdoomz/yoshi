@@ -8,7 +8,7 @@
   "author": "Amit Dahan <amitda@wix.com>",
   "dependencies": {
     "@sentry/browser": "5.7.1",
-    "@types/react": "16.9.15",
+    "@types/react": "16.9.31",
     "@wix/business-manager-api": "1.0.989",
     "@wix/fedops-logger": "5.9.0",
     "@wix/wix-axios-config": "2.0.2256",
