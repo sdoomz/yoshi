@@ -1,0 +1,11 @@
+{
+  "name": "ssr-st-css-js",
+  "private": true,
+  "yoshi": {
+    "projectType": "app",
+    "separateStylableCss": true
+  },
+  "jest": {
+    "preset": "jest-yoshi-preset"
+  }
+}
